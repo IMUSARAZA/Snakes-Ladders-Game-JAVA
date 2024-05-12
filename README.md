@@ -1,2 +1,3 @@
 # snakes-ladders-game-java
-"Snakes &amp; Ladders: JAVA" blends the classic game with computer science magic. Roll dice, climb ladders, and dodge snakes while applying smart algorithms to optimize your path. It's a fun and educational journey through the world of programming concepts!
+
+"Snakes & Ladders" is an engaging JAVA game that seamlessly integrates Data Structures and Algorithms (DSA) concepts. You move around a board, facing challenges like in the classic game. But here, you use special computer tricks to plan your moves smartly. Think of it like solving puzzles while playing! Roll the dice, make your moves, and see how good you are at using computer science ideas to win!
